@@ -1,2 +1,2 @@
-# Hydro-ontology
-Hydro-ontology
+# WHOS-Projects-Implementations
+WHOS Projects and Implementations
